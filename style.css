@@ -1,4 +1,30 @@
-body
-{
- background-color:#6395EE;
+body{
+    background:#FOF4F8;
+    color:#334E68;
+    width:100%;
+    font-family:sans-serif;
+    margin:0 auto;
+}
+
+.header{
+    width:90%
+    margin:auto;
+    height:120px;
+    line-height:120px;
+    background:#243B53;
+    color:#ffffff;
+}
+
+.jarak{
+    padding:0 2pc;
+}
+
+.menu{
+    background-color:#243B53;
+    height:50px;
+    line-height:50px;
+    position:relative;
+    width:90%;
+    margin:0 auto;
+    padding:0 auto;
 }
