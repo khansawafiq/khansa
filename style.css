@@ -11,8 +11,8 @@ body{
     margin:auto;
     height:120px;
     line-height:120px;
-    background:#f99c94;
-    color:#fff;
+    background:#fcc1bc;
+    color:#333;
 }
 
 .menu{
@@ -43,9 +43,10 @@ body{
 }
 
 .menu ul li a:hover {
-    background-color:#d3ecbc;
+    background-color:#fff;
     display:block;
 }
+
 
 
 
