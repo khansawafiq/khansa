@@ -34,7 +34,7 @@ body{
 }
 
 .menu ul li a {
-    float:lefts;
+    float:left;
     width:70px;
     display:block;
     text-align:center;
@@ -46,5 +46,6 @@ body{
     background-color:#4b88bb;
     display:block;
 }
+
 
 
