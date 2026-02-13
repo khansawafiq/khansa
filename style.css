@@ -1,6 +1,6 @@
 body{
     background:#d3ecbc;
-    color:#fff;
+    color:#333;
     width:100%;
     font-family:sans-serif;
     margin:0 auto;
@@ -11,12 +11,12 @@ body{
     margin:auto;
     height:120px;
     line-height:120px;
-    background:#ffd7dc;
+    background:#f99c94;
     color:#fff;
 }
 
 .menu{
-    background-color:#d3ecbc;
+    background-color:#b1d697;
     height:50px;
     line-height:50px;
     position:relative;
@@ -43,9 +43,10 @@ body{
 }
 
 .menu ul li a:hover {
-    background-color:#b1d697;
+    background-color:#d3ecbc;
     display:block;
 }
+
 
 
 
